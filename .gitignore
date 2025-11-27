@@ -1,0 +1,43 @@
+# --- JetBrains / PyCharm ---
+.idea/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.egg-info/
+venv/
+env/
+.venv/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*.ipynb.json
+
+# --- SQL Dumps / Backups ---
+*.sql
+*.db
+*.sqlite
+
+# --- Data files ---
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.hdf5
+*.feather
+*.json
+
+# --- Logs ---
+*.log
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
+
+# --- Other ---
+*.bak
+*.tmp
